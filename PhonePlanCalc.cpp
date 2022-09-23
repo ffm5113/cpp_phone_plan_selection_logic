@@ -123,9 +123,7 @@ int main()
 * Total minutes:       120
 * Total due:           $24.00
 * ------------------------------
-*/
-
-/*
+*
 * CONSOLE OUTPUT # 2 - PREMIUM PLAN
 * Phone Plan Calculator Program
 * By Forrest Moulin
